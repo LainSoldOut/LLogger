@@ -19,7 +19,7 @@ def on_press(key):
         pynput.keyboard.Key.backspace: ' --Backspace key was pressed-- ',
         pynput.keyboard.Key.caps_lock: '',
         pynput.keyboard.Key.left: ' --Left Key-- ',
-        pynput.keyboard.Key.right: ' --Right Key--',
+        pynput.keyboard.Key.right: ' --Right Key-- ',
         pynput.keyboard.Key.up: ' --Up Key-- ',
         pynput.keyboard.Key.down: ' --Down Key-- ',
         pynput.keyboard.Key.shift: '',
